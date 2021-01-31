@@ -8,8 +8,12 @@
 
 # 获取京东cookie
 
-1 使用Chrome插件[JDCookie](https://hannah.lanzous.com/ikNfYl5jxkd0
+1 使用Chrome插件[JDCookie](https://hannah.lanzous.com/ikNfYl5jxkd0)
+
 2 Chrome中拓展程序开启`开发者模式`
+
 3 点击`加载已解压的拓展程序`，选择`JDCookie`目录
+
 4 登录[领京豆](https://bean.m.jd.com/)
+
 5 点击`JDCookie`即可拷贝京东cookie
