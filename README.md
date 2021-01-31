@@ -8,7 +8,7 @@
 
 # 获取京东cookie
 
-1 使用Chrome插件[JDCookie](https://hannah.lanzous.com/ikNfYl5jxkd0)
+1 使用Chrome插件[JDCookie](https://hannah.lanzous.com/ikNfYl5jxkd)
 
 2 Chrome中拓展程序开启`开发者模式`
 
